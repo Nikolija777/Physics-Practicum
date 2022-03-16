@@ -1,4 +1,4 @@
-# Physics-Practicum
+# :zap: Physics-Practicum 
 
 One of the elective courses in the second semester is Physics Practicum. As part of the course, we will work on modeling physical phenomena and interpreting the results obtained by applying numerical calculation or simulation in Python. 
 
