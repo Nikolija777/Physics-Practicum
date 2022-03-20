@@ -4,4 +4,3 @@ In order to check my understanding of class lectures and exercises, I decided to
 
 
 
-* 
